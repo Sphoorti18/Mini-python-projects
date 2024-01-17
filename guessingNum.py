@@ -16,6 +16,3 @@ if __name__ == "__main__":
         if (n==0):
             break
         
-        
-        
-    
